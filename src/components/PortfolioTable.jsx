@@ -93,7 +93,7 @@ function PortfolioTable({ selectedColumns, onColumnToggle }) {
     actions.setSelectedColumns(newColumns);
   };
 
-  // **Filter Data Based on Search Query**
+  // Filter Data Based on Search Query
   const filteredData = sampleData
   .filter(row =>
     Object.values(row).some(value =>
@@ -126,7 +126,6 @@ const displayedData = filteredData.slice(startIndex, endIndex);
 
       {/* Search Bar */}
       <div className="mb-4 flex justify-between items-center">
-        {/* Search Input aligned to the left */}
         <input
           type="text"
           placeholder="Search Loan Records..."
