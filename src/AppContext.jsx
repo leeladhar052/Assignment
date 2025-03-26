@@ -3,8 +3,8 @@ import React, { createContext, useReducer, useContext } from 'react';
 // Initial State
 const initialState = {
   user: {
-    name: 'Tushar',
-    email: 'tushar@rcollect.com',
+    name: 'Leeladhar',
+    email: 'Leeladhar@gmail.com',
     avatar: null
   },
   portfolio: {
