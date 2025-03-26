@@ -112,7 +112,7 @@ const displayedData = filteredData.slice(startIndex, endIndex);
   return (
     <div className="flex-grow overflow-auto p-4">
 
-      <div className="mb-3 flex space-x-2">
+    <div className="mb-3 flex flex-wrap gap-2">
         {filters.map(filter => (
           <button
             key={filter}
@@ -130,13 +130,13 @@ const displayedData = filteredData.slice(startIndex, endIndex);
         <input
           type="text"
           placeholder="Search Loan Records..."
-          className="w-1/3 p-1 border rounded-md shadow-sm outline-none"
+          className="w-full md:w-1/3 p-2 border rounded-md shadow-sm outline-none"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
 
         {/* Right Section: Select Columns and More Filters */}
-        <div className="relative flex items-center space-x-2">
+        <div className="relative flex flex-wrap items-center gap-2 justify-center md:justify-end">
           <button
             onClick={() => setIsColumnSelectorOpen(!isColumnSelectorOpen)}
             className="border rounded px-3 py-2 text-sm flex items-center border-blue-300 text-blue-500 hover:bg-blue-50"
@@ -174,7 +174,9 @@ const displayedData = filteredData.slice(startIndex, endIndex);
       </div>
 
       {/* Portfolio Table */}
-      <table className="w-full text-sm border border-gray-200">
+      <div className="overflow-x-auto">
+    <table className="w-full text-sm border border-gray-200">
+
         <thead className="bg-blue-50 top-0 z-10">
           <tr>
             <th className="p-3 text-left w-10 border border-gray-200">
@@ -233,9 +235,10 @@ const displayedData = filteredData.slice(startIndex, endIndex);
           )}
         </tbody>
       </table>
+      </div>
 
       {/* Pagination */}
-        <div className="bg-white border-t p-3 flex justify-between items-center">
+      <div className="bg-white border-t p-3 flex flex-col md:flex-row justify-between items-center gap-2">
         <span className="text-sm text-gray-600">
           Page <strong>{currentPage}</strong> of <strong>{totalPages}</strong>
         </span>

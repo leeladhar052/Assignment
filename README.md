@@ -1,12 +1,53 @@
-# React + Vite
+# Frontend Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend assignment designed to demonstrate skills in building user interfaces using modern web technologies.
 
-Currently, two official plugins are available:
+## Features
+- Responsive design
+- Cross-browser compatibility
+- Modular and reusable components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Framework/Library: [Specify if applicable, e.g., React, Vue, etc.]
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+- Node.js and npm installed on your system.
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/leeladhar052/Assignment.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd frontend-task
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+Start the development server:
+```bash
+npm start
+```
+The application will be available at `https://assignment-rfyc.vercel.app/`.
+
+## Folder Structure
+- `/src`: Contains source code.
+- `/public`: Static assets.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions, feel free to reach 
