@@ -1,0 +1,179 @@
+[
+    {
+      "loanNo": "L26362587",
+      "loanType": "Home Loan",
+      "borrower": "Medha",
+      "borrowerAddress": "53 Topi Ganj, Kadriya",
+      "coBorrowerName": "Devi Verma",
+      "coBorrowerAddress": "24/43, Acharya Path, Digiene-562360",
+      "currentDPD": "91",
+      "sanctionAmount": "₹ 1,934,268",
+      "region": "West"
+    },
+    {
+      "loanNo": "L26362143",
+      "loanType": "Car Loan",
+      "borrower": "Ankita",
+      "borrowerAddress": "H. No. 152, Antra Street, Bathapara, 641186",
+      "coBorrowerName": "Manika Tal",
+      "coBorrowerAddress": "H. No. 42, Shivnagar Road, Mara 918926",
+      "currentDPD": "100",
+      "sanctionAmount": "₹ 1,842,143",
+      "region": "North"
+    },
+    {
+      "loanNo": "L26367890",
+      "loanType": "Personal Loan",
+      "borrower": "Rajesh Kumar",
+      "borrowerAddress": "12, MG Road, Bangalore",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "45",
+      "sanctionAmount": "₹ 750,000",
+      "region": "South"
+    },
+    {
+      "loanNo": "L26363456",
+      "loanType": "Education Loan",
+      "borrower": "Sanya Mehta",
+      "borrowerAddress": "Flat 32, Green Residency, Pune",
+      "coBorrowerName": "Ramesh Mehta",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "30",
+      "sanctionAmount": "₹ 500,000",
+      "region": "West"
+    },
+    {
+      "loanNo": "L26361234",
+      "loanType": "Gold Loan",
+      "borrower": "Amitabh Sharma",
+      "borrowerAddress": "House No. 21, New Market, Bhopal",
+      "coBorrowerName": "Geeta Sharma",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "0",
+      "sanctionAmount": "₹ 1,200,000",
+      "region": "Central"
+    },
+    {
+      "loanNo": "L26365678",
+      "loanType": "Business Loan",
+      "borrower": "Neha Agarwal",
+      "borrowerAddress": "10A, Sector 15, Noida",
+      "coBorrowerName": "Rahul Agarwal",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "120",
+      "sanctionAmount": "₹ 2,500,000",
+      "region": "North"
+    },
+    {
+      "loanNo": "L26369876",
+      "loanType": "Agriculture Loan",
+      "borrower": "Suresh Yadav",
+      "borrowerAddress": "Village Pali, Rajasthan",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "75",
+      "sanctionAmount": "₹ 900,000",
+      "region": "West"
+    },
+    {
+      "loanNo": "L26364567",
+      "loanType": "Vehicle Loan",
+      "borrower": "Priya Sharma",
+      "borrowerAddress": "A-45, Sector 62, Delhi",
+      "coBorrowerName": "Amit Sharma",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "60",
+      "sanctionAmount": "₹ 1,150,000",
+      "region": "North"
+    },
+    {
+      "loanNo": "L26367812",
+      "loanType": "Two-Wheeler Loan",
+      "borrower": "Vikas Gupta",
+      "borrowerAddress": "J-12, Indira Nagar, Lucknow",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "15",
+      "sanctionAmount": "₹ 180,000",
+      "region": "Central"
+    },
+    {
+      "loanNo": "L26369000",
+      "loanType": "Mortgage Loan",
+      "borrower": "Sneha Das",
+      "borrowerAddress": "Park Street, Kolkata",
+      "coBorrowerName": "Rohan Das",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "0",
+      "sanctionAmount": "₹ 3,500,000",
+      "region": "East"
+    },
+    {
+      "loanNo": "L26360002",
+      "loanType": "Personal Loan",
+      "borrower": "Arjun Patel",
+      "borrowerAddress": "Greenwood Society, Ahmedabad",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "20",
+      "sanctionAmount": "₹ 600,000",
+      "region": "West"
+    },
+    {
+      "loanNo": "L26361111",
+      "loanType": "Home Loan",
+      "borrower": "Karan Batra",
+      "borrowerAddress": "DLF Phase 2, Gurgaon",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "85",
+      "sanctionAmount": "₹ 5,000,000",
+      "region": "North"
+    },
+    {
+      "loanNo": "L26362222",
+      "loanType": "Gold Loan",
+      "borrower": "Maya Iyer",
+      "borrowerAddress": "T Nagar, Chennai",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "10",
+      "sanctionAmount": "₹ 750,000",
+      "region": "South"
+    },
+    {
+      "loanNo": "L26363333",
+      "loanType": "Car Loan",
+      "borrower": "Vivek Nair",
+      "borrowerAddress": "Marine Drive, Mumbai",
+      "coBorrowerName": "Ritu Nair",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "40",
+      "sanctionAmount": "₹ 1,500,000",
+      "region": "West"
+    },
+    {
+      "loanNo": "L26364444",
+      "loanType": "Education Loan",
+      "borrower": "Pooja Sharma",
+      "borrowerAddress": "Civil Lines, Jaipur",
+      "coBorrowerName": "Vinod Sharma",
+      "coBorrowerAddress": "Same as Borrower",
+      "currentDPD": "5",
+      "sanctionAmount": "₹ 400,000",
+      "region": "North"
+    },
+    {
+      "loanNo": "L26365555",
+      "loanType": "Business Loan",
+      "borrower": "Deepak Verma",
+      "borrowerAddress": "IT Park, Hyderabad",
+      "coBorrowerName": "N/A",
+      "coBorrowerAddress": "N/A",
+      "currentDPD": "90",
+      "sanctionAmount": "₹ 3,000,000",
+      "region": "South"
+    }
+  ]
+  
